@@ -17,7 +17,7 @@
 
 ## 🛠️ Project Details
 
-🔹 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬
+🔹 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬                                                                                                      
 ✅ 𝐇𝐨𝐦𝐞 𝐏𝐚𝐠𝐞: Introduction with a personal greeting and profile image. 
 ✅ 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞: A detailed section showcasing personal information, education, achivments and social platform link.
 ✅ 𝐒𝐤𝐢𝐥𝐥𝐬: A structured list of my technical skills, such as programming languages and frameworks.
