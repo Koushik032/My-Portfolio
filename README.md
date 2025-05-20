@@ -10,7 +10,7 @@
 | Achivments     | ![Achivments](./screenshots/Screenshot (14).png) |
 | Social Platform| ![Social Platform](./screenshots/Screenshot (15).jpg) |
 | Skills         | ![Skills](./screenshots/Screenshot (16).png) |
-| Projects       | ![Projects](./screenshots/Screenshot (17).jpg) |
+| Projects       | ![Projects](./screenshots/Screenshot(17).png) |
 | Contact me     | ![Contact me](./screenshots/Screenshot (18).png) |
 | Contact me     | ![Contact me](./screenshots/Screenshot (19).jpg) |
 
