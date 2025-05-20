@@ -70,7 +70,7 @@ A modern, responsive portfolio showcasing my skills, projects, and achievements 
 - Interactive elements  
 
 ## 🔗 Live Demo  
-[View Portfolio]([https://koushik-portfolio-032.netlify.app/])  
+[View Portfolio](https://koushik-portfolio-032.netlify.app/)
 
 🚀 𝐇𝐨𝐰 𝐭𝐨 𝐑𝐮𝐧
 ```bash
