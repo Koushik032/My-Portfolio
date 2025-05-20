@@ -4,15 +4,15 @@
 | Description    | Screenshot |
 |----------------|------------|
 | Home Page      | ![Home Page](./screenshots/Screenshot(10).png) |
-| Home Page      | ![Home Page](./screenshots/Screenshot(11).jpg) |
+| Home Page      | ![Home Page](./screenshots/Screenshot(11).png) |
 | Abouts         | ![Abouts](./screenshots/Screenshot(12).png) |
-| Achivments     | ![Achivments](./screenshots/Screenshot(13).jpg) |
+| Achivments     | ![Achivments](./screenshots/Screenshot(13).png) |
 | Achivments     | ![Achivments](./screenshots/Screenshot(14).png) |
-| Social Platform| ![Social Platform](./screenshots/Screenshot(15).jpg) |
+| Social Platform| ![Social Platform](./screenshots/Screenshot(15).png) |
 | Skills         | ![Skills](./screenshots/Screenshot(16).png) |
 | Projects       | ![Projects](./screenshots/Screenshot(17).png) |
 | Contact me     | ![Contact me](./screenshots/Screenshot(18).png) |
-| Contact me     | ![Contact me](./screenshots/Screenshot(19).jpg) |
+| Contact me     | ![Contact me](./screenshots/Screenshot(19).png) |
 
 ## 🛠️ Project Details
 
