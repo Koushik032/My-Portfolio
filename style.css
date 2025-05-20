@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Active link style */
+.nav-link.text-white {
+  background-color: rgba(16, 24, 39, 0.8);
+}
+
+/* Transition effects */
+.nav-link {
+  transition: all 0.3s ease;
+}
+
+/* 
+npx @tailwindcss/cli -i ./style.css -o ./output.css --watch */
