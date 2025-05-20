@@ -3,16 +3,16 @@
 ## 📷 Screenshots
 | Description    | Screenshot |
 |----------------|------------|
-| Home Page      | ![Home Page](./screenshots/Screenshot10.png) |
-| Home Page      | ![Home Page](./screenshots/Screenshot11.jpg) |
-| Abouts         | ![Abouts](./screenshots/Screenshot12.png) |
-| Achivments     | ![Achivments](./screenshots/Screenshot13.jpg) |
-| Achivments     | ![Achivments](./screenshots/Screenshot14.png) |
-| Social Platform| ![Social Platform](./screenshots/Screenshot15.jpg) |
-| Skills         | ![Skills](./screenshots/Screenshot16.png) |
-| Projects       | ![Projects](./screenshots/Screenshot17.jpg) |
-| Contact me     | ![Contact me](./screenshots/Screenshot18.png) |
-| Contact me     | ![Contact me](./screenshots/Screenshot19.jpg) |
+| Home Page      | ![Home Page](./screenshots/Screenshot (10).png) |
+| Home Page      | ![Home Page](./screenshots/Screenshot (11).jpg) |
+| Abouts         | ![Abouts](./screenshots/Screenshot (12).png) |
+| Achivments     | ![Achivments](./screenshots/Screenshot (13).jpg) |
+| Achivments     | ![Achivments](./screenshots/Screenshot (14).png) |
+| Social Platform| ![Social Platform](./screenshots/Screenshot (15).jpg) |
+| Skills         | ![Skills](./screenshots/Screenshot (16).png) |
+| Projects       | ![Projects](./screenshots/Screenshot (17).jpg) |
+| Contact me     | ![Contact me](./screenshots/Screenshot (18).png) |
+| Contact me     | ![Contact me](./screenshots/Screenshot (19).jpg) |
 
 ## 🛠️ Project Details
 
